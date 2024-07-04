@@ -20,7 +20,7 @@ int main()
     {
         
         printf("Enter the name of costumer:");
-        scanf("&s",bill[i]);
+        scanf("&s",bil[i]);
 
     }
     
